@@ -38,8 +38,7 @@ https://food-delivery-mern-rd.netlify.app/
 - `/api/user/signup`  
 - `/api/user/signin`  
 
-### Add and get Food
-- `/api/food/add`
+### Get Food
 - `/api/food`
 
 ### Add and get Cart  
